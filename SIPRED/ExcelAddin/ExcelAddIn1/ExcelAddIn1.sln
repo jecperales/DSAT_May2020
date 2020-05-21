@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAddIn.Access", "ExcelA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAddIn.Logic", "ExcelAddIn.Logic\ExcelAddIn.Logic.csproj", "{9BA1A592-46CA-43D4-B0DA-D031B8F12BF2}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DSAT_Installer", "Instalador\Instalador.vdproj", "{57F8A8AB-4A3C-4F24-A966-235E5B2D9789}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9BA1A592-46CA-43D4-B0DA-D031B8F12BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BA1A592-46CA-43D4-B0DA-D031B8F12BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BA1A592-46CA-43D4-B0DA-D031B8F12BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F8A8AB-4A3C-4F24-A966-235E5B2D9789}.Debug|Any CPU.ActiveCfg = Debug
+		{57F8A8AB-4A3C-4F24-A966-235E5B2D9789}.Debug|Any CPU.Build.0 = Debug
+		{57F8A8AB-4A3C-4F24-A966-235E5B2D9789}.Release|Any CPU.ActiveCfg = Release
+		{57F8A8AB-4A3C-4F24-A966-235E5B2D9789}.Release|Any CPU.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

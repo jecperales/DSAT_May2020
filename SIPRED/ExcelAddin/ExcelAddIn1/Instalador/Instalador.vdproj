@@ -15,8 +15,20 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_064DA150924A4D6291726B7BBB6F6822"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_03C17779F0CB99A95F98592B64D50F0E"
+        "OwnerKey" = "8:_8682D048BD9F4C97690BA768C87D8116"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_03C17779F0CB99A95F98592B64D50F0E"
+        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_03C17779F0CB99A95F98592B64D50F0E"
+        "OwnerKey" = "8:_9F982B7B58D98F9255060813CB3DC425"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -27,20 +39,32 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_1DAEA687116C47E79132AF8644BEF0CA"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_21D1420987D795441300385514125725"
+        "OwnerKey" = "8:_8682D048BD9F4C97690BA768C87D8116"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_45BFE00559BC4E262B8AB5C9ED0E01A0"
+        "MsmKey" = "8:_21D1420987D795441300385514125725"
         "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_45BFE00559BC4E262B8AB5C9ED0E01A0"
-        "OwnerKey" = "8:_D9D7A762000BFF0A5350A26667471480"
+        "MsmKey" = "8:_21D1420987D795441300385514125725"
+        "OwnerKey" = "8:_9F982B7B58D98F9255060813CB3DC425"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_25225D0A4D5D4448BEAE9CE6C71998CC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_485C546F36724E31BB01ABBDCCF0A42D"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -57,26 +81,26 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_60EE2AB23F3E4C26B69B7F4E6C9AFA4C"
+        "MsmKey" = "8:_4CFF968A1EE94614B8500A975F2EA8D1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_6478273EA8E38B62A0B28271BE87F776"
-        "OwnerKey" = "8:_45BFE00559BC4E262B8AB5C9ED0E01A0"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_6478273EA8E38B62A0B28271BE87F776"
+        "MsmKey" = "8:_562AC96F4C02358F9CAB6103D71BF166"
         "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_6478273EA8E38B62A0B28271BE87F776"
-        "OwnerKey" = "8:_D9D7A762000BFF0A5350A26667471480"
+        "MsmKey" = "8:_657CB7E19ACF659C6416221B2515C393"
+        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_657CB7E19ACF659C6416221B2515C393"
+        "OwnerKey" = "8:_9F982B7B58D98F9255060813CB3DC425"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -111,49 +135,49 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_74075EAFE148416D8754C4F5778812E6"
+        "MsmKey" = "8:_77BFC44D70B64CB48E1896F7C9298AC6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_9299AC7E18674575BC9A78426D6EF788"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_8682D048BD9F4C97690BA768C87D8116"
+        "OwnerKey" = "8:_657CB7E19ACF659C6416221B2515C393"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_99D7FBA94BC14EE08AA82335CB2F7E5E"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_AA43F456F05A5537546C09ECE56F23EA"
+        "MsmKey" = "8:_8682D048BD9F4C97690BA768C87D8116"
         "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_AE0F1F7207B5E04D2C5E21AEE3E2CE35"
-        "OwnerKey" = "8:_6478273EA8E38B62A0B28271BE87F776"
+        "MsmKey" = "8:_8682D048BD9F4C97690BA768C87D8116"
+        "OwnerKey" = "8:_9F982B7B58D98F9255060813CB3DC425"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_AE0F1F7207B5E04D2C5E21AEE3E2CE35"
+        "MsmKey" = "8:_8E14046F549A468E94D60ADE5E5D5681"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9F982B7B58D98F9255060813CB3DC425"
         "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_AE0F1F7207B5E04D2C5E21AEE3E2CE35"
-        "OwnerKey" = "8:_D9D7A762000BFF0A5350A26667471480"
+        "MsmKey" = "8:_A88596F406E98AC15F6140FDF91E56CA"
+        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_B540B192BB684072A3C8AE91946507EE"
+        "MsmKey" = "8:_B49BD1B7F6E84B9185EBBDA0D37E1248"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -165,44 +189,20 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_C99603DC36E140A0A91210723EE8EE04"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_CDCED20B18C34AD2B804423B71E1F660"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_CFB2B2EC23754B520FAA1D74F8546391"
-        "OwnerKey" = "8:_6478273EA8E38B62A0B28271BE87F776"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CFB2B2EC23754B520FAA1D74F8546391"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CFB2B2EC23754B520FAA1D74F8546391"
-        "OwnerKey" = "8:_D9D7A762000BFF0A5350A26667471480"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_D67B20E803454E2DA361E7DD52372383"
+        "MsmKey" = "8:_CED25E6F50324095944F877B6163112D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_D9D7A762000BFF0A5350A26667471480"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "MsmKey" = "8:_D20849C4752043608440F9715D41FC0B"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -219,20 +219,14 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_EF8E7A8DD860FD7B4A944ECD18C0C5F3"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_F521D69ACE48BDF488FB06E9833D86DE"
         "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_73FFD9017F836C242E4AE6A1FCB71179"
+        "MsmKey" = "8:_F85298B6FB6745CB8F7E941B23F5D880"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -244,43 +238,43 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_EF8E7A8DD860FD7B4A944ECD18C0C5F3"
+        "OwnerKey" = "8:_A88596F406E98AC15F6140FDF91E56CA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_AA43F456F05A5537546C09ECE56F23EA"
+        "OwnerKey" = "8:_562AC96F4C02358F9CAB6103D71BF166"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_D9D7A762000BFF0A5350A26667471480"
+        "OwnerKey" = "8:_9F982B7B58D98F9255060813CB3DC425"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_45BFE00559BC4E262B8AB5C9ED0E01A0"
+        "OwnerKey" = "8:_657CB7E19ACF659C6416221B2515C393"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_6478273EA8E38B62A0B28271BE87F776"
+        "OwnerKey" = "8:_8682D048BD9F4C97690BA768C87D8116"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_AE0F1F7207B5E04D2C5E21AEE3E2CE35"
+        "OwnerKey" = "8:_03C17779F0CB99A95F98592B64D50F0E"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_CFB2B2EC23754B520FAA1D74F8546391"
+        "OwnerKey" = "8:_21D1420987D795441300385514125725"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -311,6 +305,12 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_727810170F99AB10863512A5FD45C8E9"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_73FFD9017F836C242E4AE6A1FCB71179"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -370,6 +370,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
             }
         }
     }
@@ -400,12 +408,23 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_064DA150924A4D6291726B7BBB6F6822"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_03C17779F0CB99A95F98592B64D50F0E"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\..\\Desktop\\Setup_GSB_Deloitte\\jsons\\Update1.txt"
-            "TargetName" = "8:Update1.txt"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:EPPlus, Version=4.5.3.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_03C17779F0CB99A95F98592B64D50F0E"
+                    {
+                    "Name" = "8:EPPlus.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:EPPlus.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_9B88F16CA4F34445B450C8FB222D5EA6"
+            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -417,7 +436,7 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0960367FE791D85F5E6BD19E5960CF60"
@@ -451,10 +470,41 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1DAEA687116C47E79132AF8644BEF0CA"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_21D1420987D795441300385514125725"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\..\\Desktop\\Setup_GSB_Deloitte\\jsons\\Comprobaciones.json"
-            "TargetName" = "8:Comprobaciones.json"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_21D1420987D795441300385514125725"
+                    {
+                    "Name" = "8:Newtonsoft.Json.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Newtonsoft.Json.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_25225D0A4D5D4448BEAE9CE6C71998CC"
+            {
+            "SourcePath" = "8:..\\ExcelAddIn1\\jsons\\Indices.json"
+            "TargetName" = "8:Indices.json"
             "Tag" = "8:"
             "Folder" = "8:_9B88F16CA4F34445B450C8FB222D5EA6"
             "Condition" = "8:"
@@ -471,23 +521,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_45BFE00559BC4E262B8AB5C9ED0E01A0"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_485C546F36724E31BB01ABBDCCF0A42D"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:ExcelAddIn.Access, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_45BFE00559BC4E262B8AB5C9ED0E01A0"
-                    {
-                    "Name" = "8:ExcelAddIn.Access.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:ExcelAddIn.Access.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\ExcelAddIn1\\jsons\\Comprobaciones.json"
+            "TargetName" = "8:Comprobaciones.json"
             "Tag" = "8:"
-            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
+            "Folder" = "8:_9B88F16CA4F34445B450C8FB222D5EA6"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -499,7 +538,7 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_49B3B71F327B2B572106899C216FC0F2"
@@ -533,9 +572,9 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_60EE2AB23F3E4C26B69B7F4E6C9AFA4C"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4CFF968A1EE94614B8500A975F2EA8D1"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\..\\Desktop\\Setup_GSB_Deloitte\\jsons\\ValidacionCruces.json"
+            "SourcePath" = "8:..\\ExcelAddIn1\\jsons\\ValidacionCruces.json"
             "TargetName" = "8:ValidacionCruces.json"
             "Tag" = "8:"
             "Folder" = "8:_9B88F16CA4F34445B450C8FB222D5EA6"
@@ -553,20 +592,51 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6478273EA8E38B62A0B28271BE87F776"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_562AC96F4C02358F9CAB6103D71BF166"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:ExcelAddIn.Objects, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_6478273EA8E38B62A0B28271BE87F776"
+                    "_562AC96F4C02358F9CAB6103D71BF166"
                     {
-                    "Name" = "8:ExcelAddIn.Objects.dll"
+                    "Name" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:ExcelAddIn.Objects.dll"
+            "SourcePath" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_657CB7E19ACF659C6416221B2515C393"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ExcelAddIn.Access, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_657CB7E19ACF659C6416221B2515C393"
+                    {
+                    "Name" = "8:ExcelAddIn.Access.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:ExcelAddIn.Access.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
@@ -666,131 +736,9 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_74075EAFE148416D8754C4F5778812E6"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_77BFC44D70B64CB48E1896F7C9298AC6"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\..\\Desktop\\Setup_GSB_Deloitte\\jsons\\Masiva.json"
-            "TargetName" = "8:Masiva.json"
-            "Tag" = "8:"
-            "Folder" = "8:_9B88F16CA4F34445B450C8FB222D5EA6"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9299AC7E18674575BC9A78426D6EF788"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\..\\Desktop\\Setup_GSB_Deloitte\\jsons\\Cruces.json"
-            "TargetName" = "8:Cruces.json"
-            "Tag" = "8:"
-            "Folder" = "8:_9B88F16CA4F34445B450C8FB222D5EA6"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_99D7FBA94BC14EE08AA82335CB2F7E5E"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\..\\Desktop\\Setup_GSB_Deloitte\\jsons\\TiposPlantillas.json"
-            "TargetName" = "8:TiposPlantillas.json"
-            "Tag" = "8:"
-            "Folder" = "8:_9B88F16CA4F34445B450C8FB222D5EA6"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_AA43F456F05A5537546C09ECE56F23EA"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_AA43F456F05A5537546C09ECE56F23EA"
-                    {
-                    "Name" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_AE0F1F7207B5E04D2C5E21AEE3E2CE35"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:EPPlus, Version=4.5.3.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_AE0F1F7207B5E04D2C5E21AEE3E2CE35"
-                    {
-                    "Name" = "8:EPPlus.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:EPPlus.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B540B192BB684072A3C8AE91946507EE"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\..\\Desktop\\Setup_GSB_Deloitte\\jsons\\Plantillas.json"
+            "SourcePath" = "8:..\\ExcelAddIn1\\jsons\\Plantillas.json"
             "TargetName" = "8:Plantillas.json"
             "Tag" = "8:"
             "Folder" = "8:_9B88F16CA4F34445B450C8FB222D5EA6"
@@ -808,12 +756,125 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C99603DC36E140A0A91210723EE8EE04"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8682D048BD9F4C97690BA768C87D8116"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\..\\Desktop\\Setup_GSB_Deloitte\\jsons\\Indices.json"
-            "TargetName" = "8:Indices.json"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ExcelAddIn.Objects, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_8682D048BD9F4C97690BA768C87D8116"
+                    {
+                    "Name" = "8:ExcelAddIn.Objects.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:ExcelAddIn.Objects.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8E14046F549A468E94D60ADE5E5D5681"
+            {
+            "SourcePath" = "8:..\\ExcelAddIn1\\jsons\\TemplatesTypes.json"
+            "TargetName" = "8:TemplatesTypes.json"
             "Tag" = "8:"
             "Folder" = "8:_9B88F16CA4F34445B450C8FB222D5EA6"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9F982B7B58D98F9255060813CB3DC425"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ExcelAddIn.Logic, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_9F982B7B58D98F9255060813CB3DC425"
+                    {
+                    "Name" = "8:ExcelAddIn.Logic.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:ExcelAddIn.Logic.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A88596F406E98AC15F6140FDF91E56CA"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_A88596F406E98AC15F6140FDF91E56CA"
+                    {
+                    "Name" = "8:itextsharp.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:itextsharp.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B49BD1B7F6E84B9185EBBDA0D37E1248"
+            {
+            "SourcePath" = "8:..\\ExcelAddIn1\\templates\\SIPRED-EstadosFinancierosGeneral.xlsm"
+            "TargetName" = "8:SIPRED-EstadosFinancierosGeneral.xlsm"
+            "Tag" = "8:"
+            "Folder" = "8:_A23F1D9352564F1BB1C697CAF6030AD1"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -848,43 +909,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CFB2B2EC23754B520FAA1D74F8546391"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CED25E6F50324095944F877B6163112D"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_CFB2B2EC23754B520FAA1D74F8546391"
-                    {
-                    "Name" = "8:Newtonsoft.Json.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Newtonsoft.Json.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\ExcelAddIn1\\jsons\\Cruces.json"
+            "TargetName" = "8:Cruces.json"
             "Tag" = "8:"
-            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D67B20E803454E2DA361E7DD52372383"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\..\\Desktop\\Setup_GSB_Deloitte\\templates\\ESTADOS FINANCIEROS GENERAL 2017_GENERAL.xlsm"
-            "TargetName" = "8:ESTADOS FINANCIEROS GENERAL 2017_GENERAL.xlsm"
-            "Tag" = "8:"
-            "Folder" = "8:_A23F1D9352564F1BB1C697CAF6030AD1"
+            "Folder" = "8:_9B88F16CA4F34445B450C8FB222D5EA6"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -899,23 +929,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D9D7A762000BFF0A5350A26667471480"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D20849C4752043608440F9715D41FC0B"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:ExcelAddIn.Logic, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_D9D7A762000BFF0A5350A26667471480"
-                    {
-                    "Name" = "8:ExcelAddIn.Logic.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:ExcelAddIn.Logic.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\ExcelAddIn1\\jsons\\Templates.json"
+            "TargetName" = "8:Templates.json"
             "Tag" = "8:"
-            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
+            "Folder" = "8:_9B88F16CA4F34445B450C8FB222D5EA6"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -927,7 +946,7 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E26CFF3CF76CE8B64D87A5931D5F6976"
@@ -944,37 +963,6 @@
                     }
                 }
             "SourcePath" = "8:Microsoft.Office.Tools.Common.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_EF8E7A8DD860FD7B4A944ECD18C0C5F3"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_EF8E7A8DD860FD7B4A944ECD18C0C5F3"
-                    {
-                    "Name" = "8:itextsharp.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:itextsharp.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
@@ -1021,6 +1009,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F85298B6FB6745CB8F7E941B23F5D880"
+            {
+            "SourcePath" = "8:..\\ExcelAddIn1\\jsons\\TiposPlantillas.json"
+            "TargetName" = "8:TiposPlantillas.json"
+            "Tag" = "8:"
+            "Folder" = "8:_9B88F16CA4F34445B450C8FB222D5EA6"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
         }
