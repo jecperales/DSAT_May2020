@@ -1,0 +1,16 @@
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\ExcelAddIn.Objects.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\ExcelAddIn.Objects.pdb
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\EPPlus.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\EPPlus.xml
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\obj\Release\ExcelAddIn.Objects.csprojResolveAssemblyReference.cache
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\obj\Release\ExcelAddIn.Objects.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\obj\Release\ExcelAddIn.Objects.pdb
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\Newtonsoft.Json.dll
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\ExcelAddIn.Objects.dll
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\ExcelAddIn.Objects.pdb
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\EPPlus.dll
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\Newtonsoft.Json.dll
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\EPPlus.xml
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\obj\Release\ExcelAddIn.Objects.csprojResolveAssemblyReference.cache
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\obj\Release\ExcelAddIn.Objects.dll
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\obj\Release\ExcelAddIn.Objects.pdb

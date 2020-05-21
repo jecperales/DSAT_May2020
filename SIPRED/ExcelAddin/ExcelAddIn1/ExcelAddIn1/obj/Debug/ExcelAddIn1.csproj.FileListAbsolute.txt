@@ -1,0 +1,80 @@
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csprojResolveAssemblyReference.cache
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Properties.Resources.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Ribbon2.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csproj.GenerateResource.Cache
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.LoadTemplate.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Nuevo.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\EPPlus.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn.Access.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn.Logic.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn.Objects.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn.Access.pdb
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn.Logic.pdb
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn.Objects.pdb
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\EPPlus.xml
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\Newtonsoft.Json.pdb
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\Newtonsoft.Json.xml
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Cruce.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\itextsharp.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\itextsharp.xml
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Explicaciones.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Indices.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.frmCarga.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.FileJsonTemplate.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.VerificacionDeCruce.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.ActualizarCruce.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.ComprobacionesAdmin.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.CrucesAdmin.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.ActualizarComprobacion.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.ControlImprimir.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.FormulasComprobaciones.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.frmInfomeDeVerificaciones.resources
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll.config
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.pdb
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll.manifest
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.pdb
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.vsto
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll.config
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.pdb
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll.manifest
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn1.vsto
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\EPPlus.dll
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn.Access.dll
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn.Logic.dll
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn.Objects.dll
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\itextsharp.dll
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn.Access.pdb
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn.Logic.pdb
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\ExcelAddIn.Objects.pdb
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\EPPlus.xml
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\itextsharp.xml
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csprojAssemblyReference.cache
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.ActualizarComprobacion.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.ActualizarCruce.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.ComprobacionesAdmin.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.ControlImprimir.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Cruce.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.CrucesAdmin.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Explicaciones.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.FormulasComprobaciones.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.frmCarga.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.frmInfomeDeVerificaciones.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Indices.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.LoadTemplate.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.FileJsonTemplate.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Nuevo.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Properties.Resources.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.Ribbon2.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.VerificacionDeCruce.resources
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csproj.GenerateResource.cache
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csproj.CoreCompileInputs.cache
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.csproj.CopyComplete
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.dll
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn1\obj\Debug\ExcelAddIn1.pdb

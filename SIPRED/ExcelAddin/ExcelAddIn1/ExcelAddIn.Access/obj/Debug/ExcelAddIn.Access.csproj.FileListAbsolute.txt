@@ -1,0 +1,38 @@
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\ExcelAddIn.Access.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\ExcelAddIn.Access.pdb
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\ExcelAddIn.Objects.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\EPPlus.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\ExcelAddIn.Objects.pdb
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\EPPlus.xml
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\obj\Debug\ExcelAddIn.Access.csprojResolveAssemblyReference.cache
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\obj\Debug\ExcelAddIn.Access.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\obj\Debug\ExcelAddIn.Access.pdb
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\Newtonsoft.Json.dll
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\Newtonsoft.Json.pdb
+C:\Deloitte_GSB\ExcelAddin\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\ExcelAddIn.Access.dll
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\ExcelAddIn.Access.pdb
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\ExcelAddIn.Objects.dll
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\Newtonsoft.Json.dll
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\EPPlus.dll
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\ExcelAddIn.Objects.pdb
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\EPPlus.xml
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\obj\Debug\ExcelAddIn.Access.csprojAssemblyReference.cache
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\obj\Debug\ExcelAddIn.Access.csproj.CoreCompileInputs.cache
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\obj\Debug\ExcelAddIn.Access.csproj.CopyComplete
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\obj\Debug\ExcelAddIn.Access.dll
+C:\Users\josecruz\Documents\Proyectos\SOURCE CODE\SIPRED\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\obj\Debug\ExcelAddIn.Access.pdb
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\ExcelAddIn.Access.dll
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\ExcelAddIn.Access.pdb
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\ExcelAddIn.Objects.dll
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\Newtonsoft.Json.dll
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\EPPlus.dll
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\ExcelAddIn.Objects.pdb
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\Newtonsoft.Json.pdb
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\Newtonsoft.Json.xml
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\bin\Debug\EPPlus.xml
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\obj\Debug\ExcelAddIn.Access.csprojResolveAssemblyReference.cache
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\obj\Debug\ExcelAddIn.Access.dll
+C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Access\obj\Debug\ExcelAddIn.Access.pdb
