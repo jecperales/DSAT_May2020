@@ -4,9 +4,9 @@
 "ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
 "IsWebType" = "8:FALSE"
 "ProjectName" = "8:DSAT_Installer"
-"LanguageId" = "3:1033"
+"LanguageId" = "3:3082"
 "CodePage" = "3:1252"
-"UILanguageId" = "3:1033"
+"UILanguageId" = "3:3082"
 "SccProjectName" = "8:"
 "SccLocalPath" = "8:"
 "SccAuxPath" = "8:"
@@ -16,19 +16,19 @@
         "Entry"
         {
         "MsmKey" = "8:_03C17779F0CB99A95F98592B64D50F0E"
-        "OwnerKey" = "8:_8682D048BD9F4C97690BA768C87D8116"
+        "OwnerKey" = "8:_4EC1ECD33BAA9E051F997BE69A4A19A0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_03C17779F0CB99A95F98592B64D50F0E"
+        "OwnerKey" = "8:_CCE3B4C535BC6BBA7B340430BA11339C"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_03C17779F0CB99A95F98592B64D50F0E"
         "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_03C17779F0CB99A95F98592B64D50F0E"
-        "OwnerKey" = "8:_9F982B7B58D98F9255060813CB3DC425"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -46,19 +46,19 @@
         "Entry"
         {
         "MsmKey" = "8:_21D1420987D795441300385514125725"
-        "OwnerKey" = "8:_8682D048BD9F4C97690BA768C87D8116"
+        "OwnerKey" = "8:_4EC1ECD33BAA9E051F997BE69A4A19A0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_21D1420987D795441300385514125725"
+        "OwnerKey" = "8:_CCE3B4C535BC6BBA7B340430BA11339C"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_21D1420987D795441300385514125725"
         "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_21D1420987D795441300385514125725"
-        "OwnerKey" = "8:_9F982B7B58D98F9255060813CB3DC425"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -93,20 +93,14 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_4EC1ECD33BAA9E051F997BE69A4A19A0"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_562AC96F4C02358F9CAB6103D71BF166"
         "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_657CB7E19ACF659C6416221B2515C393"
-        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_657CB7E19ACF659C6416221B2515C393"
-        "OwnerKey" = "8:_9F982B7B58D98F9255060813CB3DC425"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -147,38 +141,26 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_8682D048BD9F4C97690BA768C87D8116"
-        "OwnerKey" = "8:_657CB7E19ACF659C6416221B2515C393"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_8682D048BD9F4C97690BA768C87D8116"
-        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_8682D048BD9F4C97690BA768C87D8116"
-        "OwnerKey" = "8:_9F982B7B58D98F9255060813CB3DC425"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_8E14046F549A468E94D60ADE5E5D5681"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_91C58C1C6E7C4360B898A5041BA6D773"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_90CC801B4718153CECEBBA0DED19097D"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_9F982B7B58D98F9255060813CB3DC425"
-        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
+        "MsmKey" = "8:_90CC801B4718153CECEBBA0DED19097D"
+        "OwnerKey" = "8:_4EC1ECD33BAA9E051F997BE69A4A19A0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_91C58C1C6E7C4360B898A5041BA6D773"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -191,6 +173,24 @@
         {
         "MsmKey" = "8:_B49BD1B7F6E84B9185EBBDA0D37E1248"
         "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CCE3B4C535BC6BBA7B340430BA11339C"
+        "OwnerKey" = "8:_90CC801B4718153CECEBBA0DED19097D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CCE3B4C535BC6BBA7B340430BA11339C"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CCE3B4C535BC6BBA7B340430BA11339C"
+        "OwnerKey" = "8:_4EC1ECD33BAA9E051F997BE69A4A19A0"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -238,6 +238,24 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_4EC1ECD33BAA9E051F997BE69A4A19A0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_90CC801B4718153CECEBBA0DED19097D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_CCE3B4C535BC6BBA7B340430BA11339C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -251,24 +269,6 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_562AC96F4C02358F9CAB6103D71BF166"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_9F982B7B58D98F9255060813CB3DC425"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_657CB7E19ACF659C6416221B2515C393"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_8682D048BD9F4C97690BA768C87D8116"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -353,7 +353,7 @@
         "DisplayName" = "8:Release"
         "IsDebugOnly" = "11:FALSE"
         "IsReleaseOnly" = "11:TRUE"
-        "OutputFilename" = "8:Release\\Instalador.msi"
+        "OutputFilename" = "8:Release\\Setup_GSB_Deloitte.msi"
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
@@ -612,20 +612,20 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_562AC96F4C02358F9CAB6103D71BF166"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4EC1ECD33BAA9E051F997BE69A4A19A0"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:ExcelAddIn.Logic, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_562AC96F4C02358F9CAB6103D71BF166"
+                    "_4EC1ECD33BAA9E051F997BE69A4A19A0"
                     {
-                    "Name" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
+                    "Name" = "8:ExcelAddIn.Logic.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
+            "SourcePath" = "8:ExcelAddIn.Logic.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
@@ -643,20 +643,20 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_657CB7E19ACF659C6416221B2515C393"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_562AC96F4C02358F9CAB6103D71BF166"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:ExcelAddIn.Access, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_657CB7E19ACF659C6416221B2515C393"
+                    "_562AC96F4C02358F9CAB6103D71BF166"
                     {
-                    "Name" = "8:ExcelAddIn.Access.dll"
+                    "Name" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:ExcelAddIn.Access.dll"
+            "SourcePath" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
@@ -756,37 +756,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8682D048BD9F4C97690BA768C87D8116"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:ExcelAddIn.Objects, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_8682D048BD9F4C97690BA768C87D8116"
-                    {
-                    "Name" = "8:ExcelAddIn.Objects.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:ExcelAddIn.Objects.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8E14046F549A468E94D60ADE5E5D5681"
             {
             "SourcePath" = "8:..\\ExcelAddIn1\\jsons\\TemplatesTypes.json"
@@ -807,6 +776,37 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_90CC801B4718153CECEBBA0DED19097D"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ExcelAddIn.Access, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_90CC801B4718153CECEBBA0DED19097D"
+                    {
+                    "Name" = "8:ExcelAddIn.Access.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:ExcelAddIn.Access.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_91C58C1C6E7C4360B898A5041BA6D773"
             {
             "SourcePath" = "8:..\\ExcelAddIn1\\bin\\Release\\DSAT.vsto"
@@ -825,37 +825,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9F982B7B58D98F9255060813CB3DC425"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:ExcelAddIn.Logic, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_9F982B7B58D98F9255060813CB3DC425"
-                    {
-                    "Name" = "8:ExcelAddIn.Logic.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:ExcelAddIn.Logic.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A88596F406E98AC15F6140FDF91E56CA"
@@ -907,6 +876,37 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CCE3B4C535BC6BBA7B340430BA11339C"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ExcelAddIn.Objects, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_CCE3B4C535BC6BBA7B340430BA11339C"
+                    {
+                    "Name" = "8:ExcelAddIn.Objects.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:ExcelAddIn.Objects.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CED25E6F50324095944F877B6163112D"
@@ -1136,7 +1136,7 @@
         }
         "MsiBootstrapper"
         {
-        "LangId" = "3:1033"
+        "LangId" = "3:3082"
         "RequiresElevation" = "11:FALSE"
         }
         "Product"
@@ -1144,7 +1144,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:DSAT"
         "ProductCode" = "8:{882F4258-AE04-4D9A-91FB-01B754307243}"
-        "PackageCode" = "8:{EC43B73C-32D1-4608-B89D-87C5F01116DB}"
+        "PackageCode" = "8:{631B13EC-12A0-40B4-ABA3-15F49632954F}"
         "UpgradeCode" = "8:{67068182-967A-4BCB-8D38-5EF52D2271D3}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -1152,12 +1152,12 @@
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
         "ProductVersion" = "8:1.0.0"
-        "Manufacturer" = "8:Default Company Name"
+        "Manufacturer" = "8:GSB"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
         "Title" = "8:DSAT"
         "Subject" = "8:"
-        "ARPCONTACT" = "8:Default Company Name"
+        "ARPCONTACT" = "8:GSB "
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:"
