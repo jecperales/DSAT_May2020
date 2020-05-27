@@ -356,6 +356,7 @@ namespace ExcelAddIn1
             }
             catch (Exception ex)
             {
+                MessageBox.Show(ex.ToString());
                 MessageBox.Show("No es posible agregar índices en la fila seleccionada", "Agregar índice", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
@@ -563,7 +564,7 @@ namespace ExcelAddIn1
 
                     foreach (Excel.Name item2 in wb.Names)
                     {
-                        if (item2.Name.Substring(0, 3) == "IA_")
+                        if (item2.Name.Substring(0, 3) == "IA_" )
                         {
                             NombreRangos.Add(item2.Name);
                         }
@@ -605,8 +606,26 @@ namespace ExcelAddIn1
                             IndiceAnt = objRange.get_Value(Type.Missing).ToString();
                     }
 
+                    bool ultimo_indice = false;
+                    if (NombreRangos.Count != 0)
+                    {
+                        var muestraIndice = NombreRangosDEL.FirstOrDefault();
+                        //var muestraIndice = NombreRangos.Where(x => x == "IA_" + IndiceActivo).ToList().FirstOrDefault();
+                        var RangosDelIndice = NombreRangos.Where(x => x.Substring(0, 11) == muestraIndice.Substring(0, 11)).ToList();
+                        RangosDelIndice = RangosDelIndice.Where(x => !NombreRangosDEL.Contains(x)).ToList();
+
+                        if (RangosDelIndice.Count == 0)
+                            ultimo_indice = true;
+                    }
+                    else
+                    {
+                        ultimo_indice = true;
+                    }
+                    
+
                     while (NombreRangos.Contains("IA_" + IndiceActivo))
                     {
+
                         tienedif = false;
 
                         dif = Convert.ToInt64(IndiceActivo) - Convert.ToInt64(IndiceAnt);
@@ -650,18 +669,25 @@ namespace ExcelAddIn1
                         foreach (oSubtotal ST in ColumnasST)
                         {
                             objRangeI = sheet.get_Range(ST.Columna + row.ToString(), ST.Columna + row.ToString());
+                            
+                            if(ultimo_indice)
+                                objRangeI.Value2 = "";
                             //objRangeI.Clear();
 
                             if (_Registro == 1)
                             {
                                 _Registro += 1;
                                 Generales.ActualizarReferencia(_NameFile, sheet.Name.ToUpper(), ST.Columna + row.ToString(), NombreRangos.Count, ST.Columna, row.ToString(), CantRowDelete, "E");
+
                             }
+
+
                         }
                         //wb.Save();
                     }
                     catch (Exception ex)
                     {
+                        MessageBox.Show(ex.Message);
                     }
 
                     sheet.Protect(ExcelAddIn.Access.Configuration.PwsExcel, true, true, false, true, true, true, true, false, false, false, false, false, false, true, false);
@@ -669,7 +695,7 @@ namespace ExcelAddIn1
             }
             catch (Exception ex)
             {
-                //  MessageBox.Show(ex.Message);
+                MessageBox.Show(ex.Message);
             }
         }
         private void btnAgregarExplicacion_Click(object sender, RibbonControlEventArgs e)

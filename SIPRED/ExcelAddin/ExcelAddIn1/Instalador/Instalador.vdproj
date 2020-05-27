@@ -22,7 +22,7 @@
         "Entry"
         {
         "MsmKey" = "8:_03C17779F0CB99A95F98592B64D50F0E"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -34,7 +34,13 @@
         "Entry"
         {
         "MsmKey" = "8:_0960367FE791D85F5E6BD19E5960CF60"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1F23A5A717ED4527AF3CC6246E87C3EE"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -46,7 +52,7 @@
         "Entry"
         {
         "MsmKey" = "8:_21D1420987D795441300385514125725"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -76,7 +82,7 @@
         "Entry"
         {
         "MsmKey" = "8:_49B3B71F327B2B572106899C216FC0F2"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -88,19 +94,25 @@
         "Entry"
         {
         "MsmKey" = "8:_562AC96F4C02358F9CAB6103D71BF166"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_657CB7E19ACF659C6416221B2515C393"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_657CB7E19ACF659C6416221B2515C393"
         "OwnerKey" = "8:_9F982B7B58D98F9255060813CB3DC425"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -118,19 +130,13 @@
         "Entry"
         {
         "MsmKey" = "8:_727810170F99AB10863512A5FD45C8E9"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_732C67D8E58C437CB5AA72BEF5E1A1B4"
-        "OwnerKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_73FFD9017F836C242E4AE6A1FCB71179"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -148,7 +154,7 @@
         "Entry"
         {
         "MsmKey" = "8:_8682D048BD9F4C97690BA768C87D8116"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -165,31 +171,25 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_91C58C1C6E7C4360B898A5041BA6D773"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_9F982B7B58D98F9255060813CB3DC425"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_A88596F406E98AC15F6140FDF91E56CA"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_B49BD1B7F6E84B9185EBBDA0D37E1248"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CDCED20B18C34AD2B804423B71E1F660"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -208,7 +208,7 @@
         "Entry"
         {
         "MsmKey" = "8:_E26CFF3CF76CE8B64D87A5931D5F6976"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -220,7 +220,7 @@
         "Entry"
         {
         "MsmKey" = "8:_F521D69ACE48BDF488FB06E9833D86DE"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -232,7 +232,13 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_BC432D143EC041669FD0BE710FD7A6DD"
+        "OwnerKey" = "8:_73FFD9017F836C242E4AE6A1FCB71179"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_68188454F38247ADAF2C3AC2D99BAA56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -305,12 +311,6 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_727810170F99AB10863512A5FD45C8E9"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_73FFD9017F836C242E4AE6A1FCB71179"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -468,6 +468,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1F23A5A717ED4527AF3CC6246E87C3EE"
+            {
+            "SourcePath" = "8:..\\ExcelAddIn1\\bin\\Release\\DSAT.dll.manifest"
+            "TargetName" = "8:DSAT.dll.manifest"
+            "Tag" = "8:"
+            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_21D1420987D795441300385514125725"
@@ -685,26 +705,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_732C67D8E58C437CB5AA72BEF5E1A1B4"
-            {
-            "SourcePath" = "8:..\\ExcelAddIn1\\bin\\Debug\\DSAT.vsto"
-            "TargetName" = "8:DSAT.vsto"
-            "Tag" = "8:"
-            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_73FFD9017F836C242E4AE6A1FCB71179"
             {
             "AssemblyRegister" = "3:1"
@@ -807,6 +807,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_91C58C1C6E7C4360B898A5041BA6D773"
+            {
+            "SourcePath" = "8:..\\ExcelAddIn1\\bin\\Release\\DSAT.vsto"
+            "TargetName" = "8:DSAT.vsto"
+            "Tag" = "8:"
+            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9F982B7B58D98F9255060813CB3DC425"
             {
             "AssemblyRegister" = "3:1"
@@ -875,26 +895,6 @@
             "TargetName" = "8:SIPRED-EstadosFinancierosGeneral.xlsm"
             "Tag" = "8:"
             "Folder" = "8:_A23F1D9352564F1BB1C697CAF6030AD1"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CDCED20B18C34AD2B804423B71E1F660"
-            {
-            "SourcePath" = "8:..\\ExcelAddIn1\\bin\\Debug\\DSAT.dll.manifest"
-            "TargetName" = "8:DSAT.dll.manifest"
-            "Tag" = "8:"
-            "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1144,7 +1144,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:DSAT"
         "ProductCode" = "8:{882F4258-AE04-4D9A-91FB-01B754307243}"
-        "PackageCode" = "8:{F9D689AB-D635-4847-8C76-3E91AF3ACA1A}"
+        "PackageCode" = "8:{EC43B73C-32D1-4608-B89D-87C5F01116DB}"
         "UpgradeCode" = "8:{67068182-967A-4BCB-8D38-5EF52D2271D3}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -1779,9 +1779,9 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_BC432D143EC041669FD0BE710FD7A6DD"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_68188454F38247ADAF2C3AC2D99BAA56"
             {
-            "SourcePath" = "8:..\\ExcelAddIn1\\obj\\Debug\\DSAT.dll"
+            "SourcePath" = "8:..\\ExcelAddIn1\\obj\\Release\\DSAT.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_1595735958AD428089F660DFA6B8EEB7"

@@ -14,3 +14,13 @@ C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\EPP
 C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\obj\Release\ExcelAddIn.Objects.csprojResolveAssemblyReference.cache
 C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\obj\Release\ExcelAddIn.Objects.dll
 C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\obj\Release\ExcelAddIn.Objects.pdb
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\ExcelAddIn.Objects.dll
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\ExcelAddIn.Objects.pdb
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\EPPlus.dll
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\Newtonsoft.Json.dll
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\bin\Release\EPPlus.xml
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\obj\Release\ExcelAddIn.Objects.csproj.CoreCompileInputs.cache
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\obj\Release\ExcelAddIn.Objects.csproj.CopyComplete
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\obj\Release\ExcelAddIn.Objects.dll
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\obj\Release\ExcelAddIn.Objects.pdb
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Objects\obj\Release\ExcelAddIn.Objects.csprojAssemblyReference.cache

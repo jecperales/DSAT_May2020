@@ -20,3 +20,16 @@ C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\bin\Release\Excel
 C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\obj\Release\ExcelAddIn.Logic.csprojResolveAssemblyReference.cache
 C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\obj\Release\ExcelAddIn.Logic.dll
 C:\Deloitte_GSB\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\obj\Release\ExcelAddIn.Logic.pdb
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\bin\Release\ExcelAddIn.Logic.dll
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\bin\Release\ExcelAddIn.Logic.pdb
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\bin\Release\EPPlus.dll
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\bin\Release\ExcelAddIn.Access.dll
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\bin\Release\ExcelAddIn.Objects.dll
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\bin\Release\Newtonsoft.Json.dll
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\bin\Release\ExcelAddIn.Access.pdb
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\bin\Release\ExcelAddIn.Objects.pdb
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\obj\Release\ExcelAddIn.Logic.csprojAssemblyReference.cache
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\obj\Release\ExcelAddIn.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\obj\Release\ExcelAddIn.Logic.csproj.CopyComplete
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\obj\Release\ExcelAddIn.Logic.dll
+C:\Users\Azmartinez\Documents\SIPRED\DSAT_May2020\SIPRED\ExcelAddin\ExcelAddIn1\ExcelAddIn.Logic\obj\Release\ExcelAddIn.Logic.pdb
